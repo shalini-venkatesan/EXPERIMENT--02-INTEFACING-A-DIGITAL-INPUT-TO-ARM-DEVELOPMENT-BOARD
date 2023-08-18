@@ -93,7 +93,8 @@ int main(void)
 
 
 ## Output  :
-![image](https://github.com/shalini-venkatesan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118720291/2a9fd675-ab27-48dd-bc26-10ebc4d25c56)![image](https://github.com/shalini-venkatesan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118720291/5376f252-93e8-4abd-b554-a1e3526d6ad5)
+![image](https://github.com/shalini-venkatesan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118720291/09560120-9e86-4ee0-9765-61854e00c5d9)![image](https://github.com/shalini-venkatesan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118720291/e44870a3-7179-423d-8958-88ab268beebf)
+
 
 
  
